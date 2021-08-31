@@ -1,0 +1,27 @@
+{
+  "version": "3.53.25436.0",
+  "course_id": "6qvhXr46X5M_course_id",
+  "title": "Untitled1",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6dQPsY3EzuO",
+      "title": "Untitled Slide",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "classic",
+    "width": 1300,
+    "height": 740
+  },
+  "stage": {
+    "width": 1280,
+    "height": 720
+  }
+}

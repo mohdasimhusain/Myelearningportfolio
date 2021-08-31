@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="elearningbrothers.com/xAPItmp/TORCH/10193309" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">RDG2</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="RDG2_ORG">
+    <organization identifier="RDG2_ORG">
+      <title>RDG2</title>
+      <item identifier="_10193309_Torch_CourseStarter_FB_111219_SCO" isvisible="true" identifierref="_elearningbrothers.com/xAPItmp/TORCH/10193309_RES">
+        <title>RDG2</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="_elearningbrothers.com/xAPItmp/TORCH/10193309_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/66SR2oIqXNr_80_DX318_DY318_CX238_CY192.png" />
+      <file href="mobile/6WzP3dE4kuU_80_DX318_DY318_CX238_CY192.png" />
+      <file href="mobile/6UidPOM4ulG_80_DX1726_DY1726_CX1294_CY862.jpg" />
+      <file href="mobile/65bEWkhUEFW_80_P_24_16_158_393_DX786_DY786_CX158_CY393.jpg" />
+      <file href="mobile/6J47Xx2EOU8_80_P_0_0_209_244_DX488_DY488_CX209_CY244.jpg" />
+      <file href="mobile/5uez0j7gWad_80_P_11_0_589_669_DX1152_DY1152_CX589_CY669.jpg" />
+      <file href="mobile/66SR2oIqXNr_80_DX316_DY316_CX120_CY97.png" />
+      <file href="mobile/6WzP3dE4kuU_80_DX316_DY316_CX186_CY150.png" />
+      <file href="mobile/6Lgm6kuOsDf_80_DX1508_DY1508_CX1131_CY754.jpg" />
+      <file href="mobile/601UTy8OJWb_80_P_8_6_382_663_DX1152_DY1152_CX382_CY664.jpg" />
+      <file href="mobile/6QQyeIIrRmt_80_DX1096_DY1096_CX569_CY667.png" />
+      <file href="mobile/6aG4jqTeCQ7_80_P_0_0_534_478_DX1068_DY1068_CX534_CY478.jpg" />
+      <file href="mobile/6Dcab5wxCz3_80_DX1108_DY1108_CX831_CY831.jpg" />
+      <file href="mobile/5V6V4f37Rd0_80_P_18_0_380_328_DX760_DY760_CX380_CY328.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape5uNSLQ0yF1V.png" />
+      <file href="mobile/Shape5aSHKNBjMeC.png" />
+      <file href="mobile/Shape6iWnBUlowCJ.png" />
+      <file href="mobile/Shape6nNsRpSDQDd.png" />
+      <file href="mobile/Shape5qohDB1TPhG.png" />
+      <file href="mobile/Shape6Favac8ikkC.png" />
+      <file href="mobile/Shape65519CkmXS9.png" />
+      <file href="mobile/Shape5z9laQ05toE.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5iXGbLcYJfY.js" />
+      <file href="html5/data/js/5n43bZZs5D8.js" />
+      <file href="html5/data/js/5njo70nilZG.js" />
+      <file href="html5/data/js/5ZLWu0yE6PG.js" />
+      <file href="html5/data/js/69gjPAAz5SL.js" />
+      <file href="html5/data/js/6lWPht8iTUs.js" />
+      <file href="html5/data/js/6M29eApwSap.js" />
+      <file href="html5/data/js/6mJ5fxCusDj.js" />
+      <file href="html5/data/js/6T6MZIXZfM7.js" />
+      <file href="html5/data/js/6Tbz0IplGb9.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>

@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="elearningbrothers.com/xAPItmp/TORCH/10193309" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Stress Management</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Stress_Management_ORG">
+    <organization identifier="Stress_Management_ORG">
+      <title>Stress Management</title>
+      <item identifier="_10193309_Torch_CourseStarter_FB_111219_SCO" isvisible="true" identifierref="_elearningbrothers.com/xAPItmp/TORCH/10193309_RES">
+        <title>Stress Management</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="_elearningbrothers.com/xAPItmp/TORCH/10193309_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/62QZNd7y8nR_80_DX1230_DY1230_CX968_CY911.png" />
+      <file href="mobile/6qnxVtAr1qX_80_DX1152_DY1152_CX719_CY907.png" />
+      <file href="mobile/5xZcW6xj4gJ_80_DX2044_DY2044_CX1022_CY574.png" />
+      <file href="mobile/6QOAINABgMx_80_DX1156_DY1156_CX837_CY910.png" />
+      <file href="mobile/6Vw8M1dHQci_80_DX2048_DY2048_CX1024_CY576.png" />
+      <file href="mobile/5cfGcRWfGgp_80_DX2048_DY2048_CX1024_CY576.png" />
+      <file href="mobile/6IdtVG70Dco_80_P_0_106_2048_1152_DX2048_DY2048_CX1536_CY864.png" />
+      <file href="mobile/6oKCbHM5L3s_80_DX1170_DY1170_CX630_CY921.png" />
+      <file href="mobile/6W8uznsVw0N_80_DX2048_DY2048_CX1024_CY576.png" />
+      <file href="mobile/5V6ga6bu40Z_80_DX1148_DY1148_CX315_CY574.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5oeDHs7IvBy.js" />
+      <file href="html5/data/js/5Xa6hY7dN3G.js" />
+      <file href="html5/data/js/60ZERLNxy8C.js" />
+      <file href="html5/data/js/6M29eApwSap.js" />
+      <file href="html5/data/js/6MRueUSDeeW.js" />
+      <file href="html5/data/js/6N5WTD22wHz.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>

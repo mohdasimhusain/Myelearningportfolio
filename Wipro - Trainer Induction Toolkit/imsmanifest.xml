@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6e3r7MQmqxU_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Wipro - Trainer Induction Toolkit</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Wipro_-_Trainer_Induction_Toolkit_ORG">
+    <organization identifier="Wipro_-_Trainer_Induction_Toolkit_ORG">
+      <title>Wipro - Trainer Induction Toolkit</title>
+      <item identifier="Template_2015_SCO" isvisible="true" identifierref="__6e3r7MQmqxU_course_id_RES">
+        <title>Wipro - Trainer Induction Toolkit</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6e3r7MQmqxU_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6jfD8RDfzQp_80_DX1800_DY1800_CX1131_CY705.png" />
+      <file href="mobile/5kRw7hrLnzC_80_DX522_DY522_CX438_CY438.png" />
+      <file href="mobile/5vXj7HOnYOa_80_DX1804_DY1804_CX1118_CY849.jpg" />
+      <file href="mobile/6p7nXzxH8nA_X_80_P_0_0_2048_1154_DX1806_DY1806_CX1516_CY854.jpg" />
+      <file href="mobile/5a4jSO9ppmG_80_DX96_DY96_CX48_CY20.jpg" />
+      <file href="mobile/6o7DKjXhO77_80_DX502_DY502_CX218_CY419.png" />
+      <file href="mobile/5jxpQbhpLot_80_DX90_DY90_CX74_CY75.png" />
+      <file href="mobile/6hf4u1xjxxS_80_DX114_DY114_CX64_CY64.png" />
+      <file href="mobile/6p7nXzxH8nA_X_80_P_0_0_2048_1079_DX1806_DY1806_CX1516_CY799.jpg" />
+      <file href="mobile/675pjDDq0Pl_80_DX448_DY448_CX376_CY375.png" />
+      <file href="mobile/5uqiyILPMVU_80_P_29_1468_384_439_DX2160_DY2160_CX341_CY389.jpg" />
+      <file href="mobile/5fMl83n5w9a_80_DX388_DY388_CX325_CY304.png" />
+      <file href="mobile/6AC29QP6YYS_80_DX62_DY62_CX31_CY26.jpg" />
+      <file href="mobile/6CEDo5GQ2ww_X_80_DX484_DY484_CX295_CY405.png" />
+      <file href="mobile/5uqiyILPMVU_80_P_909_0_399_632_DX2160_DY2160_CX335_CY531.jpg" />
+      <file href="mobile/6E8bTnJcDZ4_80_P_162_144_666_658_DX1422_DY1422_CX645_CY637.png" />
+      <file href="mobile/6EC8PpOtOZu_80_DX170_DY170_CX139_CY142.png" />
+      <file href="mobile/5xxKiUxk1Qu_80_P_391_834_582_465_DX2054_DY2054_CX582_CY466.png" />
+      <file href="meta.xml" />
+      <file href="mobile/5Wfh9b7tmuP.png" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape5nT860NLoYf.png" />
+      <file href="mobile/Shape5oxotSVFF5w.png" />
+      <file href="mobile/Shape5YWZMR2zsAO.png" />
+      <file href="mobile/Shape6CkJJkLKgeT.png" />
+      <file href="mobile/Shape6ciYdmAuZuV.png" />
+      <file href="mobile/Shape5ZP3NvnYYni.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5jNFHFh9sIk.js" />
+      <file href="html5/data/js/5mETmimdNuy.js" />
+      <file href="html5/data/js/5oLibg3txaT.js" />
+      <file href="html5/data/js/5suFVQgJRFk.js" />
+      <file href="html5/data/js/5VNurrR8KWl.js" />
+      <file href="html5/data/js/6IrpHZeOkFs.js" />
+      <file href="html5/data/js/6N25JQnnu4y.js" />
+      <file href="html5/data/js/6R6j9qwqPg0.js" />
+      <file href="html5/data/js/6rP4IjhU6oX.js" />
+      <file href="html5/data/js/6Te3CdF5pgY.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
